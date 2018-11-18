@@ -16,6 +16,7 @@
     "react-native-checkbox-group": "^1.0.3",
     "react-native-elements": "^0.19.1",
     "react-native-event-listeners": "^1.0.3",
+    "react-native-firebase": "^5.1.0",
     "react-native-material-dropdown": "^0.11.1",
     "react-native-slideshow": "^1.0.1",
     "react-native-swipe-gestures": "^1.0.2",
